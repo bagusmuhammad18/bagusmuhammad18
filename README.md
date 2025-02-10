@@ -2,7 +2,7 @@
 🔭 Currently working on a Marketplace Project<br>🌱 Always learning about Artificial Intelligence, Web Development, and Mobile Development<br>📫 Reach me at bagusmuhammadfajar27@gmail.com
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@bagusmf_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bagusmuhammadfr) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bagusmf_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bagusmuhammadfr) 
 
 # 💻 Tech Stack:
 
