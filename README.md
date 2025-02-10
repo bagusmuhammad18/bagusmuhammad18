@@ -1,3 +1,10 @@
+# 💫 About Me:
+🔭 Currently working on a Marketplace Project<br>🌱 Always learning about Artificial Intelligence, Web Development, and Mobile Development<br>📫 Reach me at bagusmuhammadfajar27@gmail.com
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@bagusmf_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bagusmuhammadfr) 
+
 💻 Tech Stack
 
 ### 🖥️ Programming Languages
@@ -35,3 +42,4 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
